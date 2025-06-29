@@ -10,7 +10,7 @@ It is a normal thing when learner is learning something like a language uses let
 
 The same way is used here but in a descriptive abbreviated keywords to indicate the group.
 
-This progam is being written in perl 4.30. I am still improving it to make its usability more user-friendly.
+This progam is being written in per. I am still improving it to make its usability more user-friendly.
 
 Once the user wrote down all the words in a sticky note, it is much better to transfer all the things into a notepad file to help the program to categorize the stuff. It still replaces the last saved notepad file with a freshly saved notepad file. For now it is advised to store the lastly generated notepad file in another folder.
 
