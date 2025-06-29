@@ -4,8 +4,9 @@ This program helps find and save specific german words via abbreviated keywords.
 Specifically this program helps me find and save difficult german words, nouns, reflexive verbs, cases, etc into separated files (ex: verbs are in a separated notepad, while nouns are same as in another files). While I was at the german lessons, I jotted down difficult words on sticky notes with its meaning. However eventually the sticky note was a mess with all the stuff mixed together. This problem lead me to find a way to store them seperately into its own notepad file. 
 
 It is a normal thing when learner is learning something like a language uses letters to indicate its grammatical category to memorize the complete word, verb, or a noun. for an example:
-Mann (m.) - Man   (m. stands for **masculine**.)
-Frau (f.) - Woman (f. stands for **feminine**.)
+
+- Mann (m.) - Man   (m. stands for **masculine**.)
+- Frau (f.) - Woman (f. stands for **feminine**.)
 
 The same way is used here but in a descriptive abbreviated keywords to indicate the group.
 
