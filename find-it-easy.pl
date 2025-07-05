@@ -5,11 +5,11 @@ use warnings;
 #use diagnostics;
 use v5.40.0;
 
-my $fh;															              #this is the file handler
-my $source = 'sample.txt';										    #this is the source file									
-my $des;														              #once the targeted word(s) fetched, stores them in this variable
-my $destination = "output.txt";									  #new found words are stored in this text file
-my $string;														            #this is the targeted string to be searched
+my $fh;												#this is the file handler
+my $source = 'sample.txt';								        #this is the source file									
+my $des;											#once the targeted word(s) fetched, stores them in this variable
+my $destination = "output.txt";									#new found words are stored in this text file
+my $string;											#this is the targeted string to be searched
 my $word;
 my $keywords_with_keys;
 my $keywords_with_values;
